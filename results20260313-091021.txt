@@ -1,0 +1,22 @@
+[epoch: 0]
+train_loss: 2.3633
+lr: 0.003000
+Dice coefficient: 0.1204
+Mean ROC-AUC: 0.5321
+Mean PR-AUC: 0.0118
+global correct: 95.0
+average row correct: ['98.3', '0.0', '0.0', '0.0', '0.0']
+IoU: ['95.0', '0.0', '0.0', '0.0', '0.0']
+mean IoU: 19.0
+
+[epoch: 1]
+train_loss: 1.6454
+lr: 0.002995
+Dice coefficient: 0.1204
+Mean ROC-AUC: 0.5326
+Mean PR-AUC: 0.0153
+global correct: 95.2
+average row correct: ['98.6', '0.0', '0.0', '0.0', '0.0']
+IoU: ['95.2', '0.0', '0.0', '0.0', '0.0']
+mean IoU: 19.0
+

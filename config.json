@@ -1,0 +1,15 @@
+{
+    "data_path": "./data/IDRiD/A. Segmentation",
+    "num_classes": 4,
+    "device": "cuda",
+    "batch_size": 2,
+    "epochs": 200,
+    "lr": 0.005,
+    "momentum": 0.9,
+    "weight_decay": 0.0001,
+    "print_freq": 1,
+    "resume": "",
+    "start_epoch": 0,
+    "save_best": true,
+    "amp": true
+}
